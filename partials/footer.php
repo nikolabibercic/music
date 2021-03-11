@@ -1,5 +1,5 @@
 <footer>
-        <a href="">Music Aapp</a>
+        <a href="index.php" class="logo"><span>Music</span> Aapp</a>
         <p>&copy; 2021 ALl right reserved</p>
         <div class="icons">
         <a href=""><i class="fab fa-facebook"></i></a>
